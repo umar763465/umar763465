@@ -27,7 +27,7 @@ A local database-powered notes app with create, update, and delete functionality
 ### 🛍 Flutter Shopping App UI
 
 A responsive shopping app UI with product listings and navigation flow.
-**Tech:** Flutter
+**Tech:** Flutter, Dart
 🔗 [View Repository](https://github.com/umar763465/flutter-shopping-app-ui)
 
 ---
