@@ -12,7 +12,7 @@ I specialize in building mobile applications using Flutter, focusing on clean UI
 
 A Flutter-based e-commerce application with product browsing and cart functionality.
 **Tech:** Flutter, Dart
-🔗 [View Repository](https://github.com/umar763465/flutter-medical-store-app)
+🔗 [View Repository](https://github.com/umar763465/Flutter-Medical-Store-App)
 
 ---
 
