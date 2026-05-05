@@ -24,11 +24,11 @@ A local database-powered notes app with create, update, and delete functionality
 
 ---
 
-### 🛍 Flutter Shopping App UI
+### 🔐 Flutter Login Page (Form Validation)
 
-A responsive shopping app UI with product listings and navigation flow.
+Flutter-based authentication UI application designed for a Fitness Club concept.
 **Tech:** Flutter, Dart
-🔗 [View Repository](https://github.com/umar763465/Flutter-Shopping-Store-App)
+🔗 [View Repository](https://github.com/umar763465/Flutter-Fitness-Login-App)
 
 ---
 
