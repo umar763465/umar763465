@@ -20,7 +20,7 @@ A Flutter-based e-commerce application with product browsing and cart functional
 
 A local database-powered notes app with create, update, and delete functionality.
 **Tech:** Flutter, Sqflite
-🔗 [View Repository](https://github.com/umar763465/flutter-notes-app-sqflite)
+🔗 [View Repository](https://github.com/umar763465/Flutter-Notes-App)
 
 ---
 
