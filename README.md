@@ -8,7 +8,7 @@ I specialize in building mobile applications using Flutter, focusing on clean UI
 
 ## 🚀 Featured Projects
 
-### 🛒 Flutter Medical Store App
+### 🛒 Flutter Medical Store App (E-Commerce)
 
 A Flutter-based e-commerce application with product browsing and cart functionality.
 **Tech:** Flutter, Dart
