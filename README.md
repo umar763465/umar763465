@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Umar 👋
 
-<!--
-**umar763465/umar763465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter Developer | BSCS Student**
 
-Here are some ideas to get you started:
+I specialize in building mobile applications using Flutter, focusing on clean UI, structured code, and practical functionality. I enjoy turning ideas into responsive and user-friendly apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Flutter Medical Store App
+
+A Flutter-based e-commerce application with product browsing and cart functionality.
+**Tech:** Flutter, Dart
+🔗 [View Repository](https://github.com/umar763465/flutter-medical-store-app)
+
+---
+
+### 📝 Flutter Notes App (Sqflite)
+
+A local database-powered notes app with create, update, and delete functionality.
+**Tech:** Flutter, Sqflite
+🔗 [View Repository](https://github.com/umar763465/flutter-notes-app-sqflite)
+
+---
+
+### 🛍 Flutter Shopping App UI
+
+A responsive shopping app UI with product listings and navigation flow.
+**Tech:** Flutter
+🔗 [View Repository](https://github.com/umar763465/flutter-shopping-app-ui)
+
+---
+
+## 🛠 Skills
+
+**Mobile Development:**
+
+* Flutter / Dart
+* UI Design & Responsive Layouts
+* State Management (setState / Provider basics)
+
+**Data & Backend Basics:**
+
+* Sqflite (Local Database)
+* REST APIs (basic understanding)
+
+**Tools:**
+
+* Git & GitHub
+* Android Studio / VS Code
+
+---
+
+## 💡 Additional Experience
+
+* Python (basic AI & automation projects)
+* Android (Java/Kotlin fundamentals)
+
+---
+
+## 🎯 Career Focus
+
+Currently focused on improving my Flutter development skills and building real-world mobile applications.
+Actively seeking opportunities for internships or junior roles in mobile app development.
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [umarjawad05@gmail.com](mailto:your@email.com)
+
+---
+
+⭐ *Feel free to explore my repositories and provide feedback!*
