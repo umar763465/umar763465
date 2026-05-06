@@ -12,7 +12,7 @@ I specialize in building mobile applications using Flutter, focusing on clean UI
 
 A Flutter-based e-commerce application with product browsing and cart functionality.
 **Tech:** Flutter, Dart
-🔗 [View Repository](https://github.com/umar763465/Flutter-Medical-Store-App)
+🔗 [View Repository](https://github.com/umarjawad123/Flutter-Medical-Store-App)
 
 ---
 
@@ -20,7 +20,7 @@ A Flutter-based e-commerce application with product browsing and cart functional
 
 A local database-powered notes app with create, update, and delete functionality.
 **Tech:** Flutter, Sqflite
-🔗 [View Repository](https://github.com/umar763465/Flutter-Notes-App)
+🔗 [View Repository](https://github.com/umarjawad123/Flutter-Notes-App)
 
 ---
 
@@ -28,7 +28,7 @@ A local database-powered notes app with create, update, and delete functionality
 
 Flutter-based authentication UI application designed for a Fitness Club concept.
 **Tech:** Flutter, Dart
-🔗 [View Repository](https://github.com/umar763465/Flutter-Fitness-Login-App)
+🔗 [View Repository](https://github.com/umarjawad123/Flutter-Fitness-Login-App)
 
 ---
 
